@@ -1,45 +1,47 @@
 ul {/* Navigation Bar*/ 
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FBDCCE;
 }
 
 li {
-  float: left;
+    float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+    display: block;
+    color:#4C364D;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    font-family: poetica-std, serif;
+    font-weight: 500;
+
 }
 
 .active {
-  background-color: #4CAF50;
+    background-color: #82A0C2;
 }
 
 li a:hover {
-  background-color: #111;
+    background-color: #EFA885;
+    text-color: #FFFFFF;
 }
 
-
+.href {
+    text-decoration: none;
+}
 .header {
     text-align: center;
-    background-color: aquamarine;
-    font-size: 30px;
-    font-family: Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-    position: fixed;
+    font-size: 50px;
+    font-family: olicana-fine, sans-serif;
+    font-style: normal;
+    font-weight: 400;
     align-content: center;
 }
 
-.home {
-    font-size: 12px;
-    font-family: "Times New Roman";
-}
 
 .center {
     display: block;
@@ -48,8 +50,3 @@ li a:hover {
     width: 50%;
 }
 
-.sticky {
-    position: fixed;
-    top: 40;
-    width:15%;
-}
