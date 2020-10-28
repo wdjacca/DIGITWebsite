@@ -18,21 +18,19 @@ li a {
     font-size: 20px;
     font-family: poetica-std, serif;
     font-weight: 500;
+    text-decoration: none
 
 }
 
 .active {
-    background-color: #82A0C2;
+    background-color: #EFA885;
 }
 
 li a:hover {
-    background-color: #EFA885;
-    text-color: #FFFFFF;
+    background-color: #F5905E;
+    color: white;
 }
 
-.href {
-    text-decoration: none;
-}
 .header {
     text-align: center;
     font-size: 50px;
@@ -50,3 +48,6 @@ li a:hover {
     width: 50%;
 }
 
+body{
+    background-color: #F6f1EE;
+}
