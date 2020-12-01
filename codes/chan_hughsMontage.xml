@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../Documents/GitHub/hughes_project/MontageofADreamDeferred.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../hughes_project/code/MontageofADreamDeferred.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <!--<meta>
     <mainTitle></mainTitle>
@@ -264,5 +264,294 @@
                 </stanza>
             </body>
         </poem>
+        <pb pNum="260"/>
+        <poem cont="continued">
+            <poemTitle>Night Funeral in Harlem</poemTitle>
+            <body>
+                <stanza n="4">
+                    <line n="1">Yet they got a satin box</line>
+                    <line n="2">For his head to lay.</line>
+                </stanza>
+                <stanza n="5">
+                    <line n="1"><format margin="ind1">Night funeral</format></line>
+                    <line n="2"><format margin="ind1">in Harlem:</format></line>
+                </stanza>
+                <stanza n="6">
+                    <line n="1"><format wordType="italics" margin="ind1">Who was it sent</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">That wreath of flowers?</format></line>
+                </stanza>
+                <stanza n="7">
+                    <line n="1">Them flowers came</line>
+                    <line n="2">from that poor boy's friends- </line>
+                    <line n="3">They'll want flowers, too,</line>
+                    <line n="4">When they meet their ends.</line>
+                </stanza>
+                <stanza n="8">
+                    <line n="1"><format margin="ind1">Night funeral</format></line>
+                    <line n="2"><format margin="ind1">in Harlem:</format></line>
+                </stanza>
+                <stanza n="9">
+                <line n="1"><format wordType="italics" margin="ind1">Who preached that</format></line>
+                <line n="2"><format wordType="italics" margin="ind1">Black boy to his grave?</format></line>
+                </stanza>
+                <stanza n="10">
+                    <line n="1">Old preacher-man</line>
+                    <line n="2">Preached that boy away-</line>
+                    <line n="3">Charged Five Dollars</line>
+                    <line n="4">His girl friend had to pay.</line>
+                </stanza>
+                <stanza n="11">
+                    <line n="1"><format margin="ind1">Night funeral</format></line>
+                    <line n="2"><format margin="ind1">in Harlem:</format></line>
+                </stanza>
+                <stanza n="12">
+                    <line n="1">When it was all over</line>
+                    <line n="2">And the lid shut on his head</line>
+                    <line n="3">and the organ had done played</line>
+                    <line n="4">and the last prayers been said</line>
+                    <line n="5">and six pallbearers</line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="261"/>
+        <poem cont="continued">
+            <poemTitle>Night Funeral in Harlem</poemTitle>
+            <body>
+                <stanza n="13">
+                    <line n="1">Carried him out for dead</line>
+                    <line n="2">And off down Lenox Avenue</line>
+                    <line n="3">That long black hearse done sped,</line>
+                    <line n="4"><format margin="ind1">The streetlight</format></line>
+                    <line n="5"><format margin="ind1">At his corner</format></line>
+                    <line n="6"><format margin="ind1">Shined just like a tear-</format></line>
+                    <line n="7">That boy that they was mournin'</line>
+                    <line n="8">Was so dear, so dear</line>
+                    <line n="9">To them folks that brought the flowers,</line>
+                    <line n="10">To that girl who paid the preacher man-</line>
+                    <line n="11">It was all their tears that made</line>
+                    <line n="12"><format margin="ind1">That poor boy's</format></line>
+                    <line n="13"><format margin="ind1">Funeral grand.</format></line>
+                    <line n="14"><format margin="ind1">Night funeral</format></line>
+                    <line n="15"><format margin="ind1">In Harlem.</format></line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Blues at Dawn</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">I don't dare start thinking in the morning.</line>
+                    <line n="2">I don't dare start thinking in the morning.</line>
+                    <line n="3"><format margin="ind1">If I thought thoughts in bed,</format></line>
+                    <line n="4"><format margin="ind1">Them thoughts would bust my head-</format></line>
+                    <line n="5">So I don't dare start thinking in the morning.</line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1">I don't dare remember in the morning</line>
+                    <line n="2">Don't dare remember in the morning.</line>
+                    <line n="3"><format margin="ind1">If I recall the day before,</format></line>
+                    <line n="4"><format margin="ind1">I wouldn't get up no more-</format></line>
+                    <line n="5">So I don't dare remember in the morning.</line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="262"/>
+        <poem>
+            <poemTitle>Dime</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">Chile, these steps is hard to climb.</line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1"><format wordType="italics" margin="ind1">Grandma, lend me a dime.</format></line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">Montage of a dream deferred:</line>
+                </stanza>
+                <stanza n="4">
+                    <line n="1"><format wordType="italics" margin="ind1">Grandma acts like</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">She ain't heard.</format></line>
+                </stanza>
+                <stanza n="5">
+                    <line n="1">Chile, Granny ain't got no dime.</line>
+                </stanza>
+                <stanza n="6">
+                    <line n="1"><format wordType="italics" margin="ind1">I might've knowed</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">It all the time.</format></line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Argument</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">White is right,</line>
+                    <line n="2">Yellow mellow,</line>
+                    <line n="3">Black, get back!</line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1"><format wordType="italics" margin="ind1">Do you believe that, Jack?</format></line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">Sure do!</line>
+                </stanza>
+                <stanza n="4">
+                    <line n="1"><format wordType="italics" margin="ind1">Then you're a dope,</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">for which there ain't no hope.</format></line>
+                    <line n="3"><format wordType="italics" margin="ind1">Black is fine!</format></line>
+                    <line n="4"><format wordType="italics" margin="ind1">And, God knows,</format></line>
+                    <line n="5"><format wordType="italics" margin="ind1">It's mine!</format></line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="263"/>
+        <poem>
+            <poemTitle>Neighbor</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">Down home</line>
+                    <line n="2">he sets on a stoop</line>
+                    <line n="3">and watches the sun go by.</line>
+                    <line n="4">In Harlem</line>
+                    <line n="5">when his work is done</line>
+                    <line n="6">he sets in a bar with a beer.</line>
+                    <line n="7">He looks taller than he is</line>
+                    <line n="8">and younger than he ain't.</line>
+                    <line n="9">He looks darker than he is, too.</line>
+                    <line n="10">And he's smarter than he looks,</line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1"><format wordType="italics" margin="ind1">He ain't smart.</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">That cat's a fool.</format></line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">Now he ain't neither.</line>
+                    <line n="2">He's a good man,</line>
+                    <line n="3">except he talks too much.</line>
+                    <line n="4">In fact, he's a great cat.</line>
+                    <line n="5">But when he drinks,</line>
+                    <line n="6">he drinks fast.</line>
+                </stanza>
+                <stanza n="4">
+                    <line n="1"><format wordType="italics" margin="ind1">Sometimes</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">he don't drink.</format></line>
+                </stanza>
+                <stanza n="5">
+                    <line n="1">True,</line>
+                    <line n="2">he just</line>
+                    <line n="3">lets his glass</line>
+                    <line n="4">set there.</line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="264"/>
+        <poem>
+            <poemTitle>Evening Song</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">A woman standing in the doorway</line>
+                    <line n="2">Trying to make her where-with-all:</line>
+                    <line n="3"><format wordType="italics">Come here, baby, darlin'!</format></line>
+                    <line n="4"><format wordType="italics">Don't you hear me call?</format></line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1">If I was anybody's sister,</line>
+                    <line n="2">I'd tell her, <format wordType="italics">Gimme a place to sleep.</format></line>
+                    <line n="3">But I ain't nobody's sister.</line>
+                    <line n="4">I'm just a poor lost sheep.</line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">Mary, Mary, Mary,</line>
+                    <line n="2">Had a little lamb.</line>
+                    <line n="3">Well, I hope that lamb of Mary's</line>
+                    <line n="4">Don't turn out like I am.</line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Chord</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">Shadow faces</line>
+                    <line n="2">In the shadow night</line>
+                    <line n="3">Before the early dawn</line>
+                    <line n="4">Bops bright.</line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Fact</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">There's been an eagle on a nickel,</line>
+                    <line n="2">An eagle on a quarter, too.</line>
+                    <line n="3">But there ain;t no eagle</line>
+                    <line n="4">On a dime.</line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="265"/>
+        <poem>
+            <poemTitle>Joe Louis</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">They worshipped Joe.</line>
+                    <line n="2">A school teacher</line>
+                    <line n="3">whose hair was gray</line>
+                    <line n="4">said:</line>
+                </stanza>
+                <stanza n="2">
+                    <line n="1"><format wordType="italics" margin="ind1">Joe has sense enough to know</format></line>
+                    <line n="2"><format wordType="italics" margin="ind1">He is a god.</format></line>
+                    <line n="3"><format wordType="italics" margin="ind1">So many gods don't know.</format></line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">"They say" ... "They say" ... "They say" ...</line>
+                    <line n="2">But the gossips had no</line>
+                    <line n="3">"They say"</line>
+                    <line n="4">to latch onto</line>
+                    <line n="5">for Joe.</line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Subway Rush Hour</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">Mingled</line>
+                    <line n="2">breath and smell<format wordType="handwritten">*</format></line>
+                    <line n="3">so close</line>
+                    <line n="4">mingled</line>
+                    <line n="5">black and white</line>
+                    <line n="6">so near</line>
+                    <line n="7">no room for fear</line>
+                </stanza>
+            </body>
+        </poem>
+        <poem>
+            <poemTitle>Brothers</poemTitle>
+            <body>
+                <stanza n="1">
+                    <line n="1">We're related-you and I,</line>
+                    <line n="2">You from the West Indies,</line>
+                    <line n="3">I from Kentucky.</line>
+                </stanza>
+            </body>
+        </poem>
+        <pb pNum="266"/>
+        <poem cont="continued">
+            <poemTitle>Brothers</poemTitle>
+            <body>
+                <stanza n="2">
+                    <line n="1">Kinsmen- you and I,</line>
+                    <line n="2">You from Africa,</line>
+                    <line n="3">I from the USA.</line>
+                </stanza>
+                <stanza n="3">
+                    <line n="1">Brothers-you and I.</line>
+                </stanza>
+            </body>
+        </poem>
     </text>
 </xml>
+<!-- till 265 -->
